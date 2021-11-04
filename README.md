@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![Rafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelrnascimento2006&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrnascimento2006&layout=compact)]
+
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/rafael-reis-do-nascimento/)
+
+
 <!--
 **rafaelrnascimento2006/rafaelrnascimento2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
